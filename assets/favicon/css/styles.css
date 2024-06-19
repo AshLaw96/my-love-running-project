@@ -108,6 +108,13 @@ footer {
 
     #menu {
         display: flex;
-        padding-left: 1rem;
+    }
+
+    #menu > li {
+       padding-left: 1rem; 
+    }
+
+    .nav-toggle-label {
+        display: none;
     }
 }
